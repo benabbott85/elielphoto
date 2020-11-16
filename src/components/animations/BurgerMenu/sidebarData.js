@@ -34,7 +34,7 @@ export const sidebarData = [
 // },
 
 {
-    title: 'Portfolio',
+    title: 'My Portfolio',
     path: '/Portfolio',
     icon: <GHIcons.GoProject/>,
     cName: 'nav-text'
